@@ -1,8 +1,10 @@
 # l2tp
 关于如何架设l2tp的服务器，教程多为转载，经验多是原创
 
-这是[教程原地址]
-(https://teddysun.com/448.html)
+这教程原地址
+
+https://teddysun.com/448.html
+
 
 基于Centos 7.0
 
