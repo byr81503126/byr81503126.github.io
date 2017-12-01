@@ -5,11 +5,6 @@
 基于Centos 7.0 （64位）
 # 具体教程
 
-l2tp -a 新增用户
-l2tp -d 删除用户
-l2tp -m 修改现有的用户的密码
-l2tp -l 列出所有用户名和密码
-l2tp -h 列出帮助信息
 
 ## 常见指令 
 | Code          | 效果          |
@@ -99,7 +94,7 @@ Press any key to start…or Press Ctrl+c to cancel
 # 鼓励我
 
 
-点这个图片进去注册、登录、创建机器就算支持我啦,Vultr的服务器（可以支付宝的）
+点这个图片进去就可以创建你自己的VPN咯
 
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
