@@ -11,16 +11,16 @@ l2tp -m 修改现有的用户的密码
 l2tp -l 列出所有用户名和密码
 l2tp -h 列出帮助信息
 
-## 常见指令
-| Code       | 效果          |
-| -------------|:-------------:| 
-| ipsec verify    | 检查 |
-| ipsec status    | 状态 |  
-| l2tp -a | 新增用户    |  
-| l2tp -d | 删除用户    |   
-| l2tp -m | 修改现有的用户的密码   |  
-| l2tp -l | 列出所有用户名和密码   |   
-| l2tp -h | 新增用户    |  
+## 常见指令 
+| Code          | 效果          |
+| ------------- |:-------------:| 
+| ipsec verify  | 检查 |
+| ipsec status  | 状态 |  
+| l2tp -a | 新增用户   |  
+| l2tp -d | 删除用户   |   
+| l2tp -m | 修改现有的用户的密码  |  
+| l2tp -l | 列出所有用户名和密码  |   
+| l2tp -h | 新增用户   |  
 
 ## root 用户登录后，运行以下命令：
 ```
@@ -83,39 +83,31 @@ Press any key to start…or Press Ctrl+c to cancel
 
 
 
-
-
-
-<a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
-
- 
-
-
 # 经验
 
-##服务器选址
-
+## 服务器选址
 建议选择在美国西岸城市或日本东京的主机，因为美国西岸城市或东京都有太平洋直达光纤连接中国，
 而日本和美国之间的带宽也十分之充裕，速度不会太慢
 
-
 ## 连接
 
-### Android
-- PSK就是  IPSec预共享秘钥
+### - PSK就是  IPSec预共享秘钥
 
-### IOS
-暂时还没上传图片
+
+
 
 # 鼓励我
+
+
+点这个图片进去注册、登录、创建机器就算支持我啦,Vultr的服务器（可以支付宝的）
+
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
 
 
-转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 
 
-点这个图片进去注册、登录、创建机器就算支持我啦,Vultr的服务器（可以支付宝的）
+本文转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 
 
 
