@@ -3,13 +3,14 @@
 
 
 基于Centos 7.0
-具体教程
+# 具体教程
 
 l2tp -a 新增用户
 l2tp -d 删除用户
 l2tp -m 修改现有的用户的密码
 l2tp -l 列出所有用户名和密码
 l2tp -h 列出帮助信息
+
 ## 常见指令
 | Code       | 效果          |
 | ------------- |:-------------:| 
@@ -20,12 +21,6 @@ l2tp -h 列出帮助信息
 | l2tp -m | 修改现有的用户的密码    |  
 | l2tp -l | 列出所有用户名和密码    |   
 | l2tp -h | 新增用户    |  
-
-作者：简书
-链接：http://www.jianshu.com/p/q81RER
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 
 ## root 用户登录后，运行以下命令：
 ```
@@ -42,30 +37,38 @@ Please input IP-Range:
 输入本地IP段范围（本地电脑连接到VPS后给分配的一个本地IP地址），直接回车意味着输入默认值192.168.18
 ```
 Please input PSK:
-(Default PSK: teddysun.com):```
+(Default PSK: teddysun.com):
+```
 PSK意为预共享密钥，即指定一个密钥将来在连接时需要用到，直接回车意味着输入默认值teddysun.com
 ```
 Please input Username:
-(Default Username: teddysun):```
+(Default Username: teddysun):
+```
 Username意为用户名，即第一个默认用户。直接回车意味着输入默认值teddysun
 ```
 Please input teddysun’s password:
-(Default Password: Q4SKhu2EXQ):```
+(Default Password: Q4SKhu2EXQ):
+```
 输入用户的密码，默认会随机生成一个10位包含大小写字母和数字的密码，当然你也可以指定密码。
 ```
-ServerIP:your_server_main_IP```
+ServerIP:your_server_main_IP
+```
 显示你的 VPS 的主 IP（如果是多 IP 的 VPS 也只显示一个）
 ```
-Server Local IP:192.168.18.1```
+Server Local IP:192.168.18.1
+```
 显示你的 VPS 的本地 IP（默认即可）
 ```
-Client Remote IP Range:192.168.18.2-192.168.18.254```
+Client Remote IP Range:192.168.18.2-192.168.18.254
+```
 显示 IP 段范围
 ```
-PSK:teddysun.com```
+PSK:teddysun.com
+```
 显示 PSK
 ```
-Press any key to start…or Press Ctrl+c to cancel```
+Press any key to start…or Press Ctrl+c to cancel
+```
 按下任意按键继续，如果想取消安装，请按Ctrl+c键
 
 
@@ -85,21 +88,27 @@ Vultr的服务器（支持支付宝噢）
 OpenVZ 虚拟的 VPS 需要系统内核支持 IPSec 才行。也就是说，母服务器的内核如果不支持的话那就没办法，只能换 VPS。
 因此，一般不建议在 OpenVZ 的 VPS 上安装本脚本。脚本如果检测到该 VPS 为 OpenVZ 架构，会出现警告提醒。
 
--- 如何检测是否支持TUN模块？
+- 如何检测是否支持TUN模块？
 执行命令：
 `cat /dev/net/tun`
 如果返回信息为：cat: /dev/net/tun: File descriptor in bad state 说明正常
 
--- 如何检测是否支持ppp模块？
+- 如何检测是否支持ppp模块？
 执行命令：
 `cat /dev/ppp`
 如果返回信息为：cat: /dev/ppp: No such device or address 说明正常
 当然，脚本在安装时也会执行检查，如果不适用于安装，脚本会予以提示。
+## 经验
+- PSK就是中文的“IPSec预共享秘钥”
 
--PSK就是中文的“IPSec预共享秘钥”
+
+
+
 # 打赏我
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+
+
 
 转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 
