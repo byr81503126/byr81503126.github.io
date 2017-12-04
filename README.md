@@ -42,7 +42,7 @@
 
 - 再输入 你的密码(密码在面板里获取) 
 
--
+
 ## root 登录后，运行以下命令：
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/master/l2tp.sh
@@ -105,7 +105,6 @@ Press any key to start…or Press Ctrl+c to cancel
 
 
 # 服务器
-
 
 ### 服务器选购
 
