@@ -126,6 +126,4 @@ Centos 7.0 （64位）
 还是非常划算的，毕竟安全性和不受限才是最为关键的！
 
 
-## (开始部署你的l2tp吧)[https://www.vultr.com/?ref=7233306]
-
-
+## [开始部署你的vpn吧](https://www.vultr.com/?ref=7233306)
