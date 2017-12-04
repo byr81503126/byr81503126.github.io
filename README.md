@@ -21,9 +21,9 @@
 
 ## (注册、登录、部署服务器)[https://www.vultr.com/?ref=7233306]
 部署了之后，得到服务器的 IP地址、用户名 和 密码、
-用(Putty)[http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe]登录
+用[Putty](http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe)登录
 
-！(http://images0.cnblogs.com/blog2015/328925/201505/151357073769183.png)[]
+![](http://images0.cnblogs.com/blog2015/328925/201505/151357073769183.png)
 
 在“IP address”输入服务器的IP
 
