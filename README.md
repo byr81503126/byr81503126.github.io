@@ -20,23 +20,28 @@
 # 正文
 
 ## (注册、登录、部署服务器)[https://www.vultr.com/?ref=7233306]
+
 部署了之后，得到服务器的 IP地址、用户名 和 密码、
+
 用[Putty](http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe)登录
+
+软件界面如图：
 
 ![](http://images0.cnblogs.com/blog2015/328925/201505/151357073769183.png)
 
-在“IP address”输入服务器的IP
+- 把“IP address”数字改为你服务器的IP
 
-在下面取个名字，点"save"储存
+- 在下面取个名字，点"save"储存
 
-之后直接点"open"
+- 之后直接点"open"
 
-进入命令行界面
+- 进入命令行界面
 
 
 `
-root
-你的密码 
+输入 root
+
+再输入 你的密码(密码在面板里获取) 
 `
 
 ## root 登录后，运行以下命令：
@@ -103,8 +108,9 @@ Press any key to start…or Press Ctrl+c to cancel
 # 服务器
 
 ### 选购服务器
+
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
-上面就是一家比较好的服务器供应商，还开通了支付宝，其他的比如DigitalOcean就不可能用支付宝
+上面就是一家比较好的服务器供应商，还开通了支付宝噢
 
 ### 选址
 建议选择在美国西岸城市或日本东京的主机，因为美国西岸城市或东京都有太平洋直达光纤连接中国，
@@ -119,13 +125,6 @@ Centos 7.0 （64位）
 还是非常划算的，毕竟安全性和不受限才是最为关键的！
 
 
-
-
-
-点这个图片进去就可以创建你自己的VPN咯
-
-
-
-
+## (开始部署你的l2tp吧)[https://www.vultr.com/?ref=7233306]
 
 
