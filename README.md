@@ -19,9 +19,11 @@
 
 # 正文
 
-## (注册、登录、部署服务器)[https://www.vultr.com/?ref=7233306]
+## [注册、登录、部署服务器](https://www.vultr.com/?ref=7233306)
 
-部署了之后，得到服务器的 IP地址、用户名 和 密码、
+ [部署服务器教程](http://l2tp.site/#服务器)
+ 
+ 部署了之后，得到服务器的 IP地址、用户名 和 密码
 
 用[Putty](http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe)登录
 
