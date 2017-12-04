@@ -131,6 +131,7 @@ Centos 7.0 （64位）
 ## 测试
 
 Ping值一般300ms以下就可以了，浏览网页基本没有影响
+
 [测试你服务器的ping值](http://ping.chinaz.com/)
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
