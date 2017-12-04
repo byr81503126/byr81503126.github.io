@@ -16,7 +16,7 @@
 | l2tp -m| 修改现有的用户的密码|  
 | l2tp -l| 列出所有用户名和密码|   
 | l2tp -h| 新增用户|  
-
+| -------------|:-------------:| 
 # 正文
 
 ## [注册、登录、部署服务器](http://l2tp.site/#服务器)
@@ -126,4 +126,6 @@ Centos 7.0 （64位）
 还是非常划算的，毕竟安全性和不受限才是最为关键的！
 
 
-## [开始部署你的vpn吧](https://www.vultr.com/?ref=7233306)
+<a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+
+
