@@ -19,9 +19,8 @@
 
 # 正文
 
-## [注册、登录、部署服务器](https://www.vultr.com/?ref=7233306)
+## [注册、登录、部署服务器](http://l2tp.site/#服务器)
 
- [部署服务器教程](http://l2tp.site/#服务器)
  
  部署了之后，得到服务器的 IP地址、用户名 和 密码
 
@@ -109,10 +108,12 @@ Press any key to start…or Press Ctrl+c to cancel
 
 # 服务器
 
-### 选购服务器
 
-<a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
-上面就是一家比较好的服务器供应商，还开通了支付宝噢
+### 服务器选购
+
+[点击开始创建你的服务器](https://www.vultr.com/?ref=7233306)
+
+进去之后，注册->登录->充值（可以支付宝）->选择服务器地址和配置
 
 ### 选址
 建议选择在美国西岸城市或日本东京的主机，因为美国西岸城市或东京都有太平洋直达光纤连接中国，
