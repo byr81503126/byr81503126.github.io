@@ -26,7 +26,7 @@
 
 用[Putty](http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe)登录
 
-软件界面如图：
+软件操作指引（鼠标右键是粘贴）：
 
 ![](http://images0.cnblogs.com/blog2015/328925/201505/151357073769183.png)
 
@@ -42,7 +42,7 @@
 
 - 再输入 你的密码(密码在面板里获取) 
 
-
+-
 ## root 登录后，运行以下命令：
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/master/l2tp.sh
