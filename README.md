@@ -19,7 +19,16 @@
 
 # 正文
 
-## root 用户登录后，运行以下命令：
+## (注册、登录、部署服务器)[https://www.vultr.com/?ref=7233306]
+部署了之后，得到服务器的 IP地址、用户名 和 密码、
+用(Putty)[http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe]登录
+进入命令行界面
+`
+root
+你的密码 
+`
+
+## root 登录后，运行以下命令：
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/master/l2tp.sh
 chmod +x l2tp.sh
