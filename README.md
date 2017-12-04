@@ -81,26 +81,28 @@ Press any key to start…or Press Ctrl+c to cancel
 
 
 # 服务器
+
+### 选购服务器
+<a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+上面就是一家比较好的服务器供应商，还开通了支付宝，其他的比如DigitalOcean就不可能用支付宝
+
 ### 选址
 建议选择在美国西岸城市或日本东京的主机，因为美国西岸城市或东京都有太平洋直达光纤连接中国，
-而日本和美国之间的带宽也十分之充裕，速度不会太慢
+而日本和美国之间的带宽也十分地充裕，速度不会太慢
+
 ### 系统  
 Centos 7.0 （64位）
-## 连接
+
+### 配置
+
+最低就可以了，最便宜的是$2.5/月，但是我的时候因为$2.5/月的卖完了，所以只有用$5/月的
+还是非常划算的，毕竟安全性和不受限才是最为关键的！
 
 
 
-
-
-
-# 鼓励我
 
 
 点这个图片进去就可以创建你自己的VPN咯
-
-
-<a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
-
 
 
 
