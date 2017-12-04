@@ -52,47 +52,47 @@ chmod +x l2tp.sh
 
 ## 安装
 
-输入本地IP段范围（本地电脑连接到VPS后给分配的一个本地IP地址），直接回车意味着输入默认值192.168.18
+- 输入本地IP段范围（本地电脑连接到VPS后给分配的一个本地IP地址），直接回车意味着输入默认值192.168.18
 ```
 Please input IP-Range:
 (Default Range: 192.168.18):
 ```
 
-PSK意为预共享密钥，即指定一个密钥将来在连接时需要用到，直接回车意味着输入默认值teddysun.com
+- PSK意为预共享密钥，即指定一个密钥将来在连接时需要用到，直接回车意味着输入默认值teddysun.com
 ```
 Please input PSK:
 (Default PSK: teddysun.com):
 ```
 
-Username意为用户名，即第一个默认用户。直接回车意味着输入默认值teddysun
+- Username意为用户名，即第一个默认用户。直接回车意味着输入默认值teddysun
 ```
 Please input Username:
 (Default Username: teddysun):
 ```
 
 
-输入用户的密码，默认会随机生成一个10位包含大小写字母和数字的密码，当然你也可以指定密码。
+- 输入用户的密码，默认会随机生成一个10位包含大小写字母和数字的密码，当然你也可以指定密码。
 ```
 Please input teddysun’s password:
 (Default Password: Q4SKhu2EXQ):
 ```
 
-显示你的 VPS 的主 IP（如果是多 IP 的 VPS 也只显示一个）
+- 显示你的 VPS 的主 IP（如果是多 IP 的 VPS 也只显示一个）
 ```
 ServerIP:your_server_main_IP
 ```
 
-显示你的 VPS 的本地 IP（默认即可）
+- 显示你的 VPS 的本地 IP（默认即可）
 ```
 Server Local IP:192.168.18.1
 ```
 
-显示 IP 段范围
+- 显示 IP 段范围
 ```
 Client Remote IP Range:192.168.18.2-192.168.18.254
 ```
 
-显示 PSK
+- 显示 PSK
 ```
 PSK:teddysun.com
 ```
@@ -103,11 +103,11 @@ PSK:teddysun.com
 Press any key to start…or Press Ctrl+c to cancel
 ```
 
-好了，安装成功之后
+## 安装成功之后
 
-除了你刚刚填入的用户名密码之外
+- 除了你刚刚填入的用户名密码之外
 
-你还可以通过 [这里](http://l2tp.site/#常用指令)的语句来创建账户，分发给别人使用哦
+- 你还可以通过 [这里](http://l2tp.site/#常用指令)的语句来创建账户，分发给别人使用哦
 
 # 服务器
 
