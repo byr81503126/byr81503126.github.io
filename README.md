@@ -1,20 +1,23 @@
+
+转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 # l2tp
-关于如何架设l2tp的服务器，教程多为转载，经验多是原创
+
+本文是关于如何架设l2tp服务器的教程，l2tp是vpn的一种类型
 
 
-# 具体教程
+# 常见指令 
 
+| Code|效果|
+| -------------|:-------------:| 
+| ipsec verify|检查|
+| ipsec status|状态|  
+| l2tp -a| 新增用户|  
+| l2tp -d| 删除用户|   
+| l2tp -m| 修改现有的用户的密码|  
+| l2tp -l| 列出所有用户名和密码|   
+| l2tp -h| 新增用户|  
 
-## 常见指令 
-| Code          | 效果          |
-| ------------- |:-------------:| 
-| ipsec verify  | 检查 |
-| ipsec status  | 状态 |  
-| l2tp -a | 新增用户   |  
-| l2tp -d | 删除用户   |   
-| l2tp -m | 修改现有的用户的密码  |  
-| l2tp -l | 列出所有用户名和密码  |   
-| l2tp -h | 新增用户   |  
+# 正文
 
 ## root 用户登录后，运行以下命令：
 ```
@@ -85,7 +88,7 @@ Press any key to start…or Press Ctrl+c to cancel
 Centos 7.0 （64位）
 ## 连接
 
-### - PSK就是  IPSec预共享秘钥
+
 
 
 
@@ -98,10 +101,6 @@ Centos 7.0 （64位）
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
 
-
-
-
-本文转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 
 
 
