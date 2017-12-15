@@ -139,4 +139,4 @@ Ping值一般300ms以下就可以了，浏览网页基本没有影响
 
 
 # 电脑翻墙，用这个软件
-## [VPN-Gate](http://pan.baidu.com/s/1eR86EUA).下载后，安装，选择第一个,可以自定义地区，非常方便！
+## [VPN-Gate](https://pan.baidu.com/s/1o8DqxD4).下载后，安装，选择第一个,可以自定义地区，非常方便！
