@@ -50,7 +50,7 @@ chmod +x l2tp.sh
 ./l2tp.sh
 ```
 
-## 安装
+## 安装（非常简单）
 
 - 输入本地IP段范围（本地电脑连接到VPS后给分配的一个本地IP地址），直接回车意味着输入默认值192.168.18
 ```
@@ -137,3 +137,7 @@ Ping值一般300ms以下就可以了，浏览网页基本没有影响
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
 
 
+
+# 电脑翻墙，用这个软件[VPN-Gate](http://pan.baidu.com/s/1eR86EUA)
+## 下载后，安装，选择第一个
+## 可以自定义地区，非常方便！
