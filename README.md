@@ -1,4 +1,6 @@
 
+
+
 转载至[秋水逸冰一键安装包](https://teddysun.com/448.html)
 # l2tp
 
@@ -21,10 +23,10 @@
 
 ## [注册、登录、部署服务器](http://l2tp.site/#服务器)
 
- 
- 部署了之后，得到服务器的 IP地址、用户名 和 密码
 
-用[Putty](http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe)登录
+ 部署了之后，得到服务器的 IP地址、用户名 和 密码。
+ 
+ 用<a href="http://sw.bos.baidu.com/sw-search-sp/software/473c4b8568792/PuTTY_0.67.0.0.exe" target="_blank">Putty</a>登录
 
 软件操作指引（鼠标右键是粘贴）：
 
@@ -112,8 +114,7 @@ Press any key to start…or Press Ctrl+c to cancel
 # 服务器
 
 ### 服务器选购
-
-[点击开始创建你的服务器](https://www.vultr.com/?ref=7233306)
+<a href="https://www.vultr.com/?ref=7233306" target="_blank">点击开始创建你的服务器</a>
 
 进去之后，注册->登录->充值（可以支付宝）->选择服务器地址和配置
 
@@ -131,8 +132,8 @@ Centos 7.0 （64位）
 ## 测试
 
 Ping值一般300ms以下就可以了，浏览网页基本没有影响
+<a href="http://ping.chinaz.com" target="_blank">测试你服务器的ping值</a>
 
-[测试你服务器的ping值](http://ping.chinaz.com/)
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
 
