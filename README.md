@@ -137,7 +137,6 @@ Ping值一般300ms以下就可以了，浏览网页基本没有影响
 
 <a href="https://www.vultr.com/?ref=7233306"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
 
-
-
-# 电脑翻墙，用这个软件
-## [VPN-Gate](https://pan.baidu.com/s/1o8DqxD4).下载后，安装，选择第一个,可以自定义地区，非常方便！
+-----------------------------------------------------------------------------
+电脑科学上网，可以尝试用这个软件，日本筑波大学的一个开源项目。
+## [VPN-Gate](https://pan.baidu.com/s/1o8DqxD4).下载后，安装，选择第一个,可以自定义地区，我用起来非常方便！
